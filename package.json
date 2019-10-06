@@ -25,16 +25,16 @@
   "dependencies": {
     "handlebars": "^4.0.11",
     "hoek": "^5.0.3",
-    "@hapi/inert": "^5.1.0",
-    "@hapi/joi": "^13.1.2",
+    "inert": "^5.1.0",
+    "joi": "^13.1.2",
     "lodash": "^4.17.5",
     "swagger-ui-dist": "^3.12.0",
     "@hapi/vision": "^5.3.1"
   },
   "devDependencies": {
     "code": "^5.2.0",
-    "@hapi/hapi": "^17.2.2",
-    "@hapi/lab": "^15.3.1",
+    "hapi": "^17.2.2",
+    "lab": "^15.3.1",
     "standard": "^11.0.0"
   },
   "scripts": {
